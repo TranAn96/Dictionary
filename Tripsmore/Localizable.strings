@@ -1,0 +1,25 @@
+"TITLE_HOME" = "Home";
+"trips_new_trip" = "post new trip";
+"trips_update_trip" = "update trip";
+"trips_new_rate" = "post new comment on trip";
+"trips_update_comment" = "update comment on trip";
+"trips_new_photo" = "post new photo on trip";
+"trips_edit_photo" = "update photo on trip";
+"trips_new_check_in" = "checkin on trip";
+"trips_update_check_in" = "update checkin on trip";
+"write_status_title" = "Post";
+"write_status_place_holder" = "Write your status";
+"_write_status_select_date_" = "Selected Date:";
+"_write_status_select_trip_" = "Selected Trip:";
+
+
+
+
+/////////////// MESSSAGE ////////////////
+"message_write_new_post_successfully" = "Post status successfully!";
+"message_write_new_post_failed" = "Post status failed!";
+"message_add_friend_successfully" = "Add friend successfully!";
+"message_add_friend_failed" = "Add friend failed!";
+"message_login_facebook_failed" = "Login failed!";
+"message_email_invaild" = "Email is invalid!";
+"message_need_enter_text" = "Please insert all information";
